@@ -35,10 +35,10 @@
 - [Определение и принципы работы WAF, NGFW, UTM](#определение-и-принципы-работы-waf-ngfw-utm)
 - [Структура правила snort](#структура-правила-snort)
 - [Атака TCP syn flood](#атака-tcp-syn-flood)
-- [Атака TCP syn-`ACK` flood](#атака-tcp-syn-`ACK`-flood)
+- [Атака TCP syn-ACK flood](#атака-tcp-syn-`ACK`-flood)
 - [Атаки TCP rst\`FIN` flood](#атаки-tcp-rst`FIN`-flood)
 - [Атака фраментированный ICMP\UDP flood, атака Ping Of Death](#атака-фраментированный-icmpudp-flood-атака-ping-of-death)
-- [Атака ARP-spoo`FIN`g](#атака-arp-spoo`FIN`g)
+- [Атака ARP-spooFINg](#атака-arp-spoo`FIN`g)
 
 ---
 
